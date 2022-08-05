@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "fh-product-card",
+  "name": "fh-product-card-prueba-mateoj",
   "author": "mateojaras",
   "module": "dist/fh-product-card.esm.js",
   "repository": {
